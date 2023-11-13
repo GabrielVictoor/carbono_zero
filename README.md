@@ -24,7 +24,7 @@ Os resultados serão exibidos na interface, incluindo a compensação financeira
 
 Ao lado dos resultados, uma imagem de uma árvore é exibida para visualização simbólica da compensação ambiental.
 
-##Capturas de Tela
+## Capturas de Tela
 
 ![image](https://github.com/GabrielVictoor/carbono_zero/assets/72475614/05eaf2ce-1941-4a93-b080-1f85f81d405c)
 
